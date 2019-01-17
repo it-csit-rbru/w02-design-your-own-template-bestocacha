@@ -3,5 +3,5 @@
 ## Nopparut Taechapiroontong
 ## email 6014421010@rbru.ac.th
 
-{web site}
+{Web site}
 {http://stu2.rbru.ac.th/~s6014421010}
