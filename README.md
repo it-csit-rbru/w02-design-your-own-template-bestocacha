@@ -4,4 +4,4 @@
 ## email 6014421010@rbru.ac.th
 
 {Web site}
-{http://stu2.rbru.ac.th/~s6014421010}
+{ http://stu2.rbru.ac.th/~s6014421010 }
